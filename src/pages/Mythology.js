@@ -1,5 +1,9 @@
 const Mythology = () => {
-  return <div></div>;
+  return (
+    <div>
+      <h1>Mythology</h1>
+    </div>
+  );
 };
 
 export default Mythology;

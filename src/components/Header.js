@@ -3,7 +3,7 @@ const Header = () => {
   return (
     <div>
       <Link to="/">Wello World</Link>
-      <ul>
+      <ul className="navbar">
         <li>
           <Link to="/art">Art</Link>
         </li>
